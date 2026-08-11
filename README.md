@@ -1,4 +1,4 @@
-# projetos-de-extensão:segurança da informação
+
 # 🛡️ Projetos de Extensão Acadêmica | Segurança da Informação & Inclusão
 
 Bem-vindo(a) ao repositório dos meus projetos de extensão acadêmica. Aqui estão centralizados os códigos, análises e documentações das pesquisas desenvolvidas durante a minha formação em TI / Segurança da Informação.
