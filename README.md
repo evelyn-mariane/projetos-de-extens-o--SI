@@ -6,7 +6,7 @@ Este repositório reúne pesquisas, análises e documentações desenvolvidas du
 
 Vídeos Explicativos e Apresentações
 
-Como os arquivos de mídia das apresentações são extensos, os vídeos explicativos e as defesas dos projetos estão hospedados de forma organizada na nuvem:
+Como os arquivos de mídia das apresentações são extensos, os vídeos explicativos  estão hospedados de forma organizada na nuvem:
 Acesse aqui a pasta no Google Drive com os vídeos dos projetos: 
 https://drive.google.com/drive/folders/1WKv2Lz0ON6fslcCSdoxBLUHhNUJYuZem?usp=drive_link
 
